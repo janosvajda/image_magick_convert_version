@@ -1,6 +1,6 @@
 <?php
 /**
-* Return by Imagick version number
+* Return by ImageMagick imconvert version number
 * @author Janos Vajda
 * @return string
 */
